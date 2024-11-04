@@ -18,15 +18,19 @@
 
 # Ferramentas de Desenvolvimento
 <br>
-<code><img height ="32" src ="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnoirCtiJhhN8Tvo0FJRRd4CInsOXkRX9EbA&s" alt = "vscode"/></code>
-<code><img height ="32" src ="https://miro.medium.com/v2/resize:fit:383/1*co_1qORNdM0PI1nvCp7Iig.png" alt = "git"/></code>
-<code><img height ="32" src ="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" alt = "github"/></code>
-<code><img height ="32" src ="https://raw.githubusercontent.com/github/explore/eea6056959c4b39a4e280786b580ed1f2ed81b32/topics/github-desktop/github-desktop.png" alt = "githubdesktop"/></code>
+<code><img height ="35" src ="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnoirCtiJhhN8Tvo0FJRRd4CInsOXkRX9EbA&s" alt = "vscode"/></code>
+<code><img height ="35" src ="https://miro.medium.com/v2/resize:fit:383/1*co_1qORNdM0PI1nvCp7Iig.png" alt = "git"/></code>
+<code><img height ="35" src ="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" alt = "github"/></code>
+<code><img height ="35" src ="https://raw.githubusercontent.com/github/explore/eea6056959c4b39a4e280786b580ed1f2ed81b32/topics/github-desktop/github-desktop.png" alt = "githubdesktop"/></code>
 <br>
 
 # Redes para contato 
 <br>
   <a href = "https://www.linkedin.com/in/matheus-sena-30630b324/" alt = "Linkedin">
-  <code><img height = "38" src = "https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Logo.wine.svg" alt = "linkein"/></code>
+  <code><img height = "40" src = "https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Logo.wine.svg" alt = "linkein"/></code>
   <a href = "https://github.com/MatheusSena02" alt = "github">
-  <code><img height = "38" src = "https://github.com/primer/brand/assets/19292210/fbd56a9f-ce96-4149-8add-1904c38aab74" alt = "github"/></code>
+  <code><img height = "40" src = "https://github.com/primer/brand/assets/19292210/fbd56a9f-ce96-4149-8add-1904c38aab74" alt = "github"/></code>
+<br>
+    
+# Histórico do Github 
+[![MatheusSena02](https://github-readme-stats.vercel.app/api?username=MatheusSena02&theme=default&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  [![MatheusSena02](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusSena02&hide=html&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats) 
